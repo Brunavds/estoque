@@ -1,3 +1,5 @@
+#Cadastra produtos no sistema.
+
 import MySQLdb
 
 def create_connection():
